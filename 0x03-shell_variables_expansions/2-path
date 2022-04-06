@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="$PATH:/action"
+ls 2-path | wc -l
